@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, TypeScript, Javascript, Java, Algorithms**
 
-- ⚡ Fun fact **I cannot leave without music.**
+- ⚡ Fun fact **I cannot live without music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
